@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: yulianyu@gmail.com
 description: "这里是 @iyouwe 来雨 的个人博客，生活美好，全力打拚 | 未来更"
 keyword: "于连宇, 来雨, 来雨行云, 大数据, 大模型, 物联网, 工业物联网, IIOT, 云计算, AI, 微服务, android, LMM, 电商, B2C, B2B"
-url: "https://huangxuan.me" # your host, for absolute URL
+#url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -75,8 +75,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "生活美好，全力打拚"
+sidebar-avatar: https://mmbiz.qpic.cn/mmbiz/E3sc5GmTDAx9m5r4iceLlvfq8kziaEoV7yMjsyic3I7WzlQ84DoH4iaoKMRGWbYPX0B8sQ67BNStphAUx25Ax2D5Qg/640?wx_fmt=jpeg&tp=webp&wxfrom=5 # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
